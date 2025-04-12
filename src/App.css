@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Kanit-Medium";
+  src: url("../src/assets/fonts/Kanit/Kanit-Medium.ttf");
+}
+@font-face {
+  font-family: "Kanit-Light";
+  src: url("../src/assets/fonts/Kanit/Kanit-Light.ttf");
+}
+.Kanit-Medium{
+  font-family: "Kanit-Medium";
+}
+.Kanit-Light{
+  font-family: "Kanit-Light";
+}
+#root {
+  /* max-width: 1280px; */
+  width: 100%;
+  margin: 0 auto;
+  /* padding: 2rem 0; */
+  text-align: center;
+}
